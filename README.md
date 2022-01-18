@@ -14,3 +14,22 @@ Projeto focado na Transformação, preparação e análise dos dados do Dataset 
 5. baseTitanicEditada.csv: Resultado da transformação dos dados sobre a base original.
 
 ## Contatos:
+
+<div>   
+  
+  <a href = "mailto:thiaguinho_wd.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+  
+   <a href = "mailto:thiago.ferreirawd@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/tferreirasilva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  
+  <a href = "https://www.facebook.com/thiago.ferreira.50746">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+  </a>     
+</div>
