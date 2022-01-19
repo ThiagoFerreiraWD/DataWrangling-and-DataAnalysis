@@ -1,4 +1,4 @@
-# <p align=center> DataWrangling and DataAnalysis Dataset Titanic </p>
+# <p align=center> Data Wrangling and Data Analysis Dataset Titanic </p>
 Projeto focado na Transformação, preparação e análise dos dados do Dataset Titanic.
 
 
