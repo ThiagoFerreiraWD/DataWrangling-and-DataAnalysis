@@ -28,13 +28,14 @@ Projeto focado na Transformação, preparação e análise dos dados do Dataset 
 
 ## Contatos:
 
-<div>
-   <a href = "mailto:thiago.ferreirawd@gmail.com">
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
-  </a>
+<div>  
   
   <a href="https://www.linkedin.com/in/tferreirasilva/">
     <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+ 
+  <a href = "mailto:thiago.ferreirawd@gmail.com">
+      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
   </a>
   
   <a href = "https://www.facebook.com/thiago.ferreira.50746">
