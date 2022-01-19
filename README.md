@@ -4,6 +4,19 @@ Projeto focado na Transformação, preparação e análise dos dados do Dataset 
 
 ![GifTitanic](https://user-images.githubusercontent.com/54869201/149949807-75249489-c8f9-427d-96b6-954f8b8ad8f8.gif)
 
+#
+
+## Ferramentas e linguagens utilizadas:
+
+
+<div>
+ 
+&nbsp;        
+<img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
+
+#
 
 ## Descrição dos arquivos:
 
@@ -15,16 +28,21 @@ Projeto focado na Transformação, preparação e análise dos dados do Dataset 
 
 ## Contatos:
 
-<div>     
+<div>
    <a href = "mailto:thiago.ferreirawd@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
   </a>
   
   <a href="https://www.linkedin.com/in/tferreirasilva/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   
   <a href = "https://www.facebook.com/thiago.ferreira.50746">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+    <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+  </a>
+ 
+  <a href = "https://github.com/ThiagoFerreiraWD">
+    <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>     
 </div>
+
