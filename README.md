@@ -20,11 +20,10 @@ Projeto focado na Transformação, preparação e análise dos dados do Dataset 
 
 ## Descrição dos arquivos:
 
- 1. BaseTitanic.csv: Arquivo em formato .csv contendo os dados dos passageiros do navio RMS Titanic.
- 2. Data Wrangling and Data Analysis - Titanic.html: Página em HTML das etapas dos processos até a exploração dos dados.
- 3. Data Wrangling and Data Analysis - Titanic.ipynb: Arquivo JupyterNotebook das etapas até a  exploração dos dados.
- 4. Data Wrangling and Data Analysis - Titanic.py: Arquivo em formato .py das etapas dos processos até a  exploração dos dados.
- 5. baseTitanicEditada.csv: Resultado da transformação dos dados sobre a base original.
+ 1. **BaseTitanic.csv:** Arquivo em formato .csv contendo os dados dos passageiros do navio RMS Titanic.
+ 1. **Data Wrangling and Data Analysis - Titanic.ipynb:** Arquivo JupyterNotebook das etapas até a  exploração dos dados.
+ 1. **Data Wrangling and Data Analysis - Titanic.py:** Arquivo em formato .py das etapas dos processos até a  exploração dos dados.
+ 1. **baseTitanicEditada.csv:** Resultado da transformação dos dados sobre a base original.
 
 ## Contatos:
 
