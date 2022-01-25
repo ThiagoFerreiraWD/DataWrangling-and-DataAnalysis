@@ -2,7 +2,8 @@
 Projeto focado na Transformação, preparação e análise dos dados do Dataset Titanic.
 
 
-![GifTitanic](https://user-images.githubusercontent.com/54869201/149949807-75249489-c8f9-427d-96b6-954f8b8ad8f8.gif)
+![gifTitanic](https://user-images.githubusercontent.com/54869201/150991886-4861733f-1305-452a-a375-9a940db2ca02.gif)
+
 
 #
 
