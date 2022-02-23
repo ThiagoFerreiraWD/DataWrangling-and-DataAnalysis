@@ -2,29 +2,23 @@
 Projeto focado na Transformação, preparação e análise dos dados do Dataset Titanic.
 
 
-![gifTitanic](https://user-images.githubusercontent.com/54869201/150991886-4861733f-1305-452a-a375-9a940db2ca02.gif)
+![gifTitanic](https://user-images.githubusercontent.com/54869201/155425124-08b35b18-e44c-4b16-8382-7db00cf49594.gif)
 
 
-#
 
 ## Ferramentas e linguagens utilizadas:
-
-
-<div>
- 
+<div> 
 &nbsp;        
-<img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
-#
 
 ## Descrição dos arquivos:
 
  1. **BaseTitanic.csv:** Arquivo em formato .csv contendo os dados dos passageiros do navio RMS Titanic.
  1. **Data Wrangling and Data Analysis - Titanic.ipynb:** Arquivo JupyterNotebook das etapas até a  exploração dos dados.
  1. **Data Wrangling and Data Analysis - Titanic.py:** Arquivo em formato .py das etapas dos processos até a  exploração dos dados.
- 1. **baseTitanicEditada.csv:** Resultado da transformação dos dados sobre a base original.
 
 ## Contatos:
 
