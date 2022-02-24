@@ -1,5 +1,5 @@
 # <p align=center> Data Wrangling and Data Analysis Dataset Titanic </p>
-Projeto focado na Transformação, preparação e análise dos dados do Dataset Titanic.
+Projeto focado na transformação, preparação e análise dos dados do Dataset Titanic.
 
 
 ![gifTitanic](https://user-images.githubusercontent.com/54869201/155425124-08b35b18-e44c-4b16-8382-7db00cf49594.gif)
